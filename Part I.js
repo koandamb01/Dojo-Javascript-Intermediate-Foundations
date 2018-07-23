@@ -1,3 +1,14 @@
+/*ooo        ooooo                oooooo   oooooo     oooo            .o8               oooo          
+`88.       .888'                 `888.    `888.     .8'            "888               `888          
+ 888b     d'888   .ooooo.         `888.   .8888.   .8'    .ooooo.   888oooo.           888  .oooo.o 
+ 8 Y88. .P  888  d88' `88b         `888  .8'`888. .8'    d88' `88b  d88' `88b          888 d88(  "8 
+ 8  `888'   888  888   888          `888.8'  `888.8'     888ooo888  888   888          888 `"Y88b.  
+ 8    Y     888  888   888           `888'    `888'      888    .o  888   888          888 o.  )88b 
+o8o        o888o `Y8bod8P'            `8'      `8'       `Y8bod8P'  `Y8bod8P'      .o. 88P 8""888P' 
+                                                                                   `Y888P           
+                                                                                                    
+                                                                                                    */
+
 // Sigma - Implement function sigma(num) that given a number, 
 // returns the sum of all positive integers up to number (inclusive).  
 // Ex: sigma(3) = 6 (or 1+2+3); sigma(5) = 15 (or 1+2+3+4+5).
